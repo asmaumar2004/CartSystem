@@ -9,43 +9,50 @@ The Cart Management System is a web application created using the MERN stack (Mo
 ### Backend Setup
 
 1. *Clone the Repository:*
-   bash
+   ```
    git clone https://github.com/yourusername/CartManagementSystem.git
    cd CartManagementSystem
+   ```
    
 
 2. *Install Dependencies:*
-   bash
+   ```
    npm install
+   ```
    
 
-3. *Configure Environment Variables:*
-   - Create a .env file in the root directory with necessary variables.
+4. *Configure Environment Variables:*
+   ```
+   Create a .env file in the root directory with necessary variables.
+   ```
 
-4. *Start the Backend Server:*
-   bash
+5. *Start the Backend Server:*
+   ```
    npm start
+   ```
    
 
 ### Frontend Setup
 
 1. *Navigate to Client Directory:*
-   bash
+   ```
    cd client
-   
+   ```
 
 2. *Install Frontend Dependencies:*
-   bash
+   ```
    npm install
-   
+   ```
 
 3. *Configure Environment Variables:*
-   - Create a .env file in the client directory with necessary variables.
-
-4. *Start the Frontend Development Server:*
-   bash
-   npm run dev
+   ```
+   Create a .env file in the client directory with necessary variables.
+   ```
    
+5. *Start the Frontend Development Server:*
+   ```
+   npm run dev
+   ```
 
 ## Endpoints
 
